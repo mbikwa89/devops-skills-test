@@ -1,0 +1,4 @@
+use "ls -lah "
+open the /etc/network/interfaces file and add the "dns-nameservers ip " line
+use commands such as " nslookup " or "dig'
+lvcreate -n docker -L 70G docker-group
